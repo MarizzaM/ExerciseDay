@@ -1,0 +1,3 @@
+Running - The thread has been started and not yet stopped.
+Suspended - The thread has been suspended.
+Aborted - thread is now dead, but its state has not yet changed to Stopped.
