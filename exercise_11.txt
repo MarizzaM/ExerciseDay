@@ -1,0 +1,2 @@
+The thread that downloads from the Internet - Foreground Thread
+Because foreground threads keep an application alive as long as they are running
