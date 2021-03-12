@@ -1,0 +1,2 @@
+a) Auto reset event
+b) Manual reset event
