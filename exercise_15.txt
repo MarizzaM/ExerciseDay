@@ -1,0 +1,14 @@
+a) When I need block a certain code-block (critical section) and do not allow more 
+than one thread to enter this code-block at the same time
+b)Critical section is any piece of code that has the possibility of being executed concurrently by more than one thread
+of the application and exposes any shared data or resources used by the application for access.
+c)
+.try
+{
+.. Monitor::Enter ..
+}
+finaly
+{
+.. Monitor::Exet ..
+}
+d) Yes
