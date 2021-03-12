@@ -1,0 +1,5 @@
+BlockingCollection<T>
+Multiple threads can safely and efficiently add or remove items from these collections, 
+without requiring additional synchronization in user code.
+Access to elements of a collection object through extension methods or through explicit 
+interface implementations are not guaranteed to be thread-safe and may need to be synchronized by the caller. 
