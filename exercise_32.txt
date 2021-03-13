@@ -1,0 +1,8 @@
+a)
+Suspend() can leave application in an inconsistent state ( on Suspend(), the system immediately suspend the thread, 
+not allowing you to perform any operation to put application in consistent state
+
+with Cancellation mechanism we can watch cancellation flag and if it gets true, we can write the code 
+to put application in consistence state.
+
+b) CancellationToken
