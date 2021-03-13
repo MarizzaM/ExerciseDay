@@ -1,0 +1,2 @@
+a) Async
+b) No, Async key word does not break interface
