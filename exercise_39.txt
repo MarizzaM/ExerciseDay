@@ -1,0 +1,2 @@
+Operations after the await are running in a background thread, and this is not suitable in the 
+case when we need 100% completed of the program
